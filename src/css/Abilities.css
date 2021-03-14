@@ -1,0 +1,19 @@
+.Abilities, .SavingThrows {
+  width: 15%;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  color: white;
+}
+
+.ability, .saving_throw {
+  margin: 5%;
+  background-color: green;
+  border: 5px solid black;
+}
+
+.saving_throw {
+  color: blue;
+}

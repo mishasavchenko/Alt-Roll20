@@ -1,0 +1,7 @@
+{
+  "abilities":[{"name":"strength",
+               "score": "16"},
+               {"name":"Constitution",
+                "score": "6"}
+             ]
+}

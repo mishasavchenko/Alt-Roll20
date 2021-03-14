@@ -1,0 +1,70 @@
+{
+  "abilities":[
+    {"name":"strength",
+      "score": "16",
+      "modifier":null},
+      {"name":"dexterity",
+      "score": "20",
+      "modifier":null},
+      {"name":"constitution",
+      "score": "6",
+      "modifier":null},
+      {"name":"intelligence",
+      "score": "10",
+      "modifier":null},
+      {"name":"wisdom",
+      "score": "17",
+      "modifier":null},
+      {"name":"charisma",
+      "score": "5",
+      "modifier":null}
+    ],
+    "saving_throws":[
+    {
+    "proficiency":1,
+    "ability":"strength",
+    "modifier":2,
+    "bonus":1
+    },
+    {
+    "proficiency":1,
+    "ability":"dexterity",
+    "modifier":null,
+    "bonus":1
+    },
+    {
+    "proficiency":1,
+    "ability":"constitution",
+    "modifier":null,
+    "bonus":1
+    },
+    {
+    "proficiency":1,
+    "ability":"intelligence",
+    "modifier":null,
+    "bonus":1
+    },
+    {
+    "proficiency":1,
+    "ability":"wisdom",
+    "modifier":null,
+    "bonus":1
+    },
+    {
+    "proficiency":1,
+    "ability":"charisma",
+    "modifier":null,
+    "bonus":1
+    }
+    ],
+    "skills":[
+    {"ability":"dexterity",
+    "name":"acrobatics",
+    "modifier":null,
+    "proficiency":1},
+    {"ability":"wisdom",
+    "name":"animal handling",
+    "modifier":-1,
+    "proficiency":0}
+    ]
+}
